@@ -1,6 +1,9 @@
 body {
-    color: white;
     text-align: center;
+    font-family: "Comic Relief", sans-serif;
 }
 
-p.solid {border-style: solid;}
+h1.solid {
+    border-style: solid;
+    border-color: blue;
+}
