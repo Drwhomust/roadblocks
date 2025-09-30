@@ -29,3 +29,9 @@ local Instance = {}
 
 -- server
 local ServerStoage = {}
+
+-- Player
+
+local Player = {}
+local StarterPlayer = {}
+local StarterCharater = {}
