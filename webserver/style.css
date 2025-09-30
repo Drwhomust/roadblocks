@@ -18,9 +18,9 @@ div.sticky {
 
 div.menu {
   position: relative;
-  width: 650px;
+  width: 1500px;
   height: 600px;
-  border: 3px solid blue;
+  border: 5px solid blue;
 } 
 
 div.Player {
@@ -33,10 +33,10 @@ div.Player {
 }
 
 div.Content {
-  position: fixed;
+  position: relative;
   top: 107px;
   right: 0;
-  width: 300px;
-  height: 500px;
+  width: 900px;
+  height: 600px;
   border: 3px solid green;
 }
