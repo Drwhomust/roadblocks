@@ -1,3 +1,3 @@
-local isserver = true
-local socket = require("socket")
-print(socket._VERSION)
+-- Game server for roadblocks
+
+print("hello world!")
