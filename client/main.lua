@@ -8,4 +8,5 @@ print("Hello World!")
 
 function love.load()
   local network = require("socket")
+  game = require(luau-emu-702)
 end
